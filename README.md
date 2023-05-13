@@ -23,7 +23,7 @@
 
 <h2 id="img">📺 Imagem do projeto</h2>
 <p align="center">
-    <img src=".github/preview.jpg" alt="interface Stats Preview Card">
+    <img src=".github/preview.jpg" alt="interface Testimonials Grid">
 </p>
 
 <br>
